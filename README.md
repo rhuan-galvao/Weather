@@ -16,5 +16,15 @@ Para utiizar o código precisamos do;
   ```sh
   pip install bs4
   ```
+3. Para rodar o código digite:
+```sh
+python weather.py
+```
+ou
+```sh
+py weather.py
+```
+
+
 Obrigado a todos ;)
 
