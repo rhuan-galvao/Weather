@@ -6,6 +6,7 @@ Programa feito em Python para ver o tempo ;)
 1. Python 3, instale em:
   ```sh
   https://www.python.org/
+  ```
   
 2. Instalação das dependencias:
     Para você rodar esse repositorio é necessario o Requests & BeautifulSoup, instale eles utilizando o comando.
