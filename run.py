@@ -1,7 +1,9 @@
-from main import temp_maxima, temp_minima, relatorio
+from src import scrap
 
 
 if __name__ == "__main__":
-    print(relatorio())
-    print(temp_minima())
-    print(temp_maxima())
+    data = scrap("pe", "recife")
+    
+    print(data.relatorio())
+    print(data.min())
+    print(data.max())
