@@ -1,32 +1,20 @@
+# Weather
+A Program made in Python to see the weather. ;)
 
-## Weather
-Programa feito em Python para ver o tempo ;)
-## Como utilizar
+## Installation
+is necessary have python installed on your machine.
 
-1. Python 3, instale em:
-  ```sh
-  https://www.python.org/
-  ```
-  
-2. Instalação das dependencias:
-    Para você rodar esse repositorio é necessario o Requests & BeautifulSoup, instale eles utilizando o comando.
-    
-    ```sh
-    pip install -r requirements.txt
-    ```
+```
+pip3 install bs4
+pip3 install requests
 
- 3. Pronto! :)
-    Agora você pode rodar o programa com o comando:
-    
-    ```sh
-    python run.py
-    ```
+python3 run.py
+```
 
-    ou
+## Contributing
 
-    
-    ```sh
-    py run.py
-    ```
-
-Obrigado a todos ;)
+1. Fork it (<https://github.com/yourname/yourproject/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
